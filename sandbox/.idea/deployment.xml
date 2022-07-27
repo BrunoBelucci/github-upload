@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="belucci@localhost:2222 password" remoteFilesAllowedToDisappearOnAutoupload="false" autoUploadExternalChanges="true" showEqualInSync="true" showNewOnSourceInSync="false">
+    <serverData>
+      <paths name="belucci@10.101.7.5:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="belucci@localhost:2222 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/users/belucci/sandbox" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="belucci@localhost:2222 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/users/belucci/sandbox" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
